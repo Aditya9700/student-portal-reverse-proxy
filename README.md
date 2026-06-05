@@ -77,30 +77,6 @@ The application uses Nginx as a Reverse Proxy to route client requests to the ap
 * Backend ports hidden from users
 * Centralized request handling
 
----
-
-## API Endpoints
-
-### Register User
-
-```http
-POST /api/auth/register
-```
-
-### Login User
-
-```http
-POST /api/auth/login
-```
-
-### Get Profile
-
-```http
-GET /api/auth/profile
-```
-
----
-
 ## Setup Instructions
 
 ### 1. Clone the Repository
