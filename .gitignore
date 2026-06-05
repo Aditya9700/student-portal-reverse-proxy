@@ -1,0 +1,23 @@
+# Dependency directories
+node_modules/
+backend/node_modules/
+student portral/node_modules/
+
+# Production builds
+dist/
+student portral/dist/
+
+# Env files (contains sensitive credentials)
+.env
+backend/.env
+student portral/.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# OS metadata
+.DS_Store
+Thumbs.db
