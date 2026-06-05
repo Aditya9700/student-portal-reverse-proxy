@@ -3,7 +3,7 @@
 A Student Portal Web Application built using the MERN stack (MongoDB, Express.js, React, Node.js) with JWT Authentication and Nginx Reverse Proxy integration.
 
 Assignment -4
-Web Technology 
+Web Technology  by Aditya Rana
 
 ## Project Overview
 
